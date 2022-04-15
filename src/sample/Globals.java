@@ -1,0 +1,1 @@
+package sample; import java.sql.Connection; import java.sql.ResultSet; import java.sql.Statement; public class Globals { public static String user_id; public static Statement stmt = null; public static Connection connection = null; public static ResultSet rs; public static int LiveMinPay = 10833; public static int GKUPercents = 10; }

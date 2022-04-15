@@ -1,0 +1,1 @@
+package sample; public class Configs { protected static String server = "jdbc:postgresql://localhost:5432/"; protected static String user = "dima160899"; protected static String password = "ubvyfpbz50"; protected static String nameDB = "social_protection"; protected static String url = server + nameDB; }
